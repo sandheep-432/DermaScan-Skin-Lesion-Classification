@@ -1,0 +1,7 @@
+metric,value
+best_validation_accuracy,0.7663107947805456
+best_epoch,21.0
+test_accuracy,0.7394599715774515
+weighted_precision,0.7535116762646609
+weighted_recall,0.7394599715774515
+weighted_f1_score,0.7418584601456493

@@ -1,0 +1,8 @@
+,Pred_AKIEC,Pred_BCC,Pred_BKL,Pred_DF,Pred_MEL,Pred_NV,Pred_VASC
+True_AKIEC,96,17,7,4,3,0,4
+True_BCC,1,60,10,1,2,7,1
+True_BKL,8,20,83,3,26,35,0
+True_DF,9,6,1,11,0,7,3
+True_MEL,1,5,20,0,90,60,0
+True_NV,4,30,18,6,58,923,5
+True_VASC,1,4,0,2,2,3,29

@@ -1,0 +1,4 @@
+Comparison,Model_1,Model_2,Both_Correct,Model1_Correct_Model2_Wrong,Model1_Wrong_Model2_Correct,Both_Wrong,Statistic,P_Value,Statistically_Significant
+CNN vs TransferLearning,CNN,TransferLearning,1437,124,242,308,37.40163934426229,9.614128221513171e-10,YES
+CNN vs SVM,CNN,SVM,1088,473,369,181,12.59976247030879,0.00038579578042188345,YES
+TransferLearning vs SVM,TransferLearning,SVM,1153,526,304,128,58.84457831325301,1.7063129313651566e-14,YES

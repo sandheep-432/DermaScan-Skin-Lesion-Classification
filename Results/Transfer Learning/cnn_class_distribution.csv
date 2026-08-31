@@ -1,0 +1,8 @@
+class_name,train_count,validation_count,test_count
+AKIEC,524,131,164
+BCC,328,82,103
+BKL,700,175,219
+DF,147,37,47
+MEL,705,176,221
+NV,4176,1044,1306
+VASC,161,41,51

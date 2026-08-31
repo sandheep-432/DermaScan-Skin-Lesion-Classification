@@ -1,0 +1,6 @@
+metric,value
+best_crossval_f1,0.7113155900484637
+test_accuracy,0.6901942207484605
+weighted_precision,0.7758363301519424
+weighted_recall,0.6901942207484605
+weighted_f1_score,0.7135644908633384
