@@ -72,7 +72,7 @@ The dataset exhibits substantial class imbalance; distribution was analyzed and 
 ## Pipeline
 
 
-![Project Workflow](Images/Readme/workflow.jpeg)
+![Project Workflow](Images/Readme/workflow.png)
 
 ## Image Preprocessing
 
@@ -107,7 +107,7 @@ A Support Vector Machine trained on handcrafted image features.
 
 **Pipeline**
 ```
-Handcrafted Features → StandardScaler → Variance Threshold → PCA → RBF SVM → 7-Class Prediction
+Handcrafted Features → StandardScaler → Variance Threshold → RBF SVM → 7-Class Prediction
 ```
 
 **Configuration**
@@ -117,8 +117,6 @@ Handcrafted Features → StandardScaler → Variance Threshold → PCA → RBF S
 | Kernel | RBF |
 | Class balancing | Balanced class weights |
 | Feature scaling | StandardScaler |
-| Feature selection | VarianceThreshold |
-| Dimensionality reduction | PCA |
 | Hyperparameter tuning | GridSearchCV |
 | Cross-validation | Stratified K-Fold |
 
