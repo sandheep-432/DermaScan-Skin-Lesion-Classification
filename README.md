@@ -29,7 +29,6 @@
 - [Repository Structure](#repository-structure)
 - [Technologies Used](#technologies-used)
 - [Project Results](#project-results)
-- [Getting Started](#getting-started)
 - [Notebooks](#notebooks)
 - [Limitations](#limitations)
 - [Future Improvements](#future-improvements)
@@ -107,7 +106,7 @@ A Support Vector Machine trained on handcrafted image features.
 
 **Pipeline**
 ```
-Handcrafted Features → StandardScaler → Variance Threshold → RBF SVM → 7-Class Prediction
+Handcrafted Features → StandardScaler →  RBF SVM → 7-Class Prediction
 ```
 
 **Configuration**
