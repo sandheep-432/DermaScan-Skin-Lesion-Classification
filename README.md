@@ -243,25 +243,7 @@ Exported results for each model and the combined analysis are available under `R
 - **`Results/Transfer Learning/`** — Training history, predictions, classification reports, confusion matrices, dataset split info, summary metrics
 - **`Results/COMBINED/`** — Combined model metrics, combined predictions, combined confusion matrix, classification metrics, McNemar test results
 
-## Getting Started
 
-**1. Clone the repository**
-```bash
-git clone https://github.com/sandheep-432/DermaScan-Skin-Lesion-Classification.git
-cd DermaScan-Skin-Lesion-Classification
-```
-
-**2. Install dependencies**
-```bash
-pip install torch torchvision opencv-python numpy pandas scikit-learn scikit-image matplotlib seaborn plotly streamlit pillow
-```
-
-**3. Run the Streamlit application**
-```bash
-streamlit run Dashboard/streamlit_2/app.py
-```
-
-> **Note:** Large trained `.pth` model files are excluded from this repository via `.gitignore`. Full model-inference functionality in the Streamlit app requires the corresponding trained model files to be available locally.
 
 ## Notebooks
 
